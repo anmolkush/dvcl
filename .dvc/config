@@ -1,0 +1,4 @@
+[core]
+    remote = dvcagian
+['remote "dvcagian"']
+    url = ssh://anmol@10.11.6.51:/home/anmol/DVCAGAIN
